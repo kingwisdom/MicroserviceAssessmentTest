@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bQH2tj0fMD2Uia2n60c15hMFHwOyj8xN7fpaUusCoHx4AW6/UphtvIN6bkuFq/ZLGDQYa72ltzRI/aeGvB4Cjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Microservice\\AspNetCore\\MicroServiceAppWMB\\MicroServiceWMBApp\\GBankService\\GBankService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.2.0\\swashbuckle.aspnetcore.swagger.5.2.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.2.0\\swashbuckle.aspnetcore.swaggergen.5.2.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.2.1\\swashbuckle.aspnetcore.swaggerui.5.2.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

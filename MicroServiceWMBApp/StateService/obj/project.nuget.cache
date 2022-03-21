@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S/c4gxL3gIYI2NX+nVYpxjsWMQKfG4+tq8gmH7mnHuEO0qN8xSAL1ze8dxnOGiZE+WPrmB9Xl51DKx0lV8cLkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Microservice\\AspNetCore\\MicroServiceAppWMB\\MicroServiceWMBApp\\StateService\\StateService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

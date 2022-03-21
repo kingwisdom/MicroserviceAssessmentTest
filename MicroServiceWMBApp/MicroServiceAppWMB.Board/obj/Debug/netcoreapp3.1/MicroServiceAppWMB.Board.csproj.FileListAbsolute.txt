@@ -1,0 +1,10 @@
+C:\Users\DELL\Microservice\AspNetCore\MicroServiceAppWMB\MicroServiceWMBApp\MicroServiceAppWMB.Board\bin\Debug\netcoreapp3.1\MicroServiceAppWMB.Board.deps.json
+C:\Users\DELL\Microservice\AspNetCore\MicroServiceAppWMB\MicroServiceWMBApp\MicroServiceAppWMB.Board\bin\Debug\netcoreapp3.1\MicroServiceAppWMB.Board.dll
+C:\Users\DELL\Microservice\AspNetCore\MicroServiceAppWMB\MicroServiceWMBApp\MicroServiceAppWMB.Board\bin\Debug\netcoreapp3.1\MicroServiceAppWMB.Board.pdb
+C:\Users\DELL\Microservice\AspNetCore\MicroServiceAppWMB\MicroServiceWMBApp\MicroServiceAppWMB.Board\obj\Debug\netcoreapp3.1\MicroServiceAppWMB.Board.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Microservice\AspNetCore\MicroServiceAppWMB\MicroServiceWMBApp\MicroServiceAppWMB.Board\obj\Debug\netcoreapp3.1\MicroServiceAppWMB.Board.AssemblyInfoInputs.cache
+C:\Users\DELL\Microservice\AspNetCore\MicroServiceAppWMB\MicroServiceWMBApp\MicroServiceAppWMB.Board\obj\Debug\netcoreapp3.1\MicroServiceAppWMB.Board.AssemblyInfo.cs
+C:\Users\DELL\Microservice\AspNetCore\MicroServiceAppWMB\MicroServiceWMBApp\MicroServiceAppWMB.Board\obj\Debug\netcoreapp3.1\MicroServiceAppWMB.Board.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Microservice\AspNetCore\MicroServiceAppWMB\MicroServiceWMBApp\MicroServiceAppWMB.Board\obj\Debug\netcoreapp3.1\MicroServiceAppWMB.Board.dll
+C:\Users\DELL\Microservice\AspNetCore\MicroServiceAppWMB\MicroServiceWMBApp\MicroServiceAppWMB.Board\obj\Debug\netcoreapp3.1\MicroServiceAppWMB.Board.pdb
+C:\Users\DELL\Microservice\AspNetCore\MicroServiceAppWMB\MicroServiceWMBApp\MicroServiceAppWMB.Board\obj\Debug\netcoreapp3.1\MicroServiceAppWMB.Board.csproj.AssemblyReference.cache

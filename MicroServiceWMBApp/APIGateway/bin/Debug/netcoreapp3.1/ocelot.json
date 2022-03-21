@@ -1,0 +1,58 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/c1/board/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "23455"
+        }
+      ],
+      "UpstreamPathTemplate": "/board/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+      "SwaggerKey": "boards"
+
+    },
+    {
+      "DownstreamPathTemplate": "/api/b1/bank/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "6717"
+        }
+      ],
+      "UpstreamPathTemplate": "/bank/{everything}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "SwaggerKey": "banks"
+
+    }
+  ],
+  "SwaggerEndPoints": [
+    {
+      "Key": "boards",
+      "Config": [
+        {
+          "Name": "Board Service API",
+          "Version": "v1",
+          "Url": "http://localhost:23455/swagger/C1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "banks",
+      "Config": [
+        {
+          "Name": "Bank Service API",
+          "Version": "v2",
+          "Url": "http://localhost:6717/swagger/B1/swagger.json"
+        }
+      ]
+    }
+  ]
+  //,
+  //"GlobalConfiguration": {
+  //  "BaseUrl": "http://localhost:22513/swagger"
+  //}
+}
